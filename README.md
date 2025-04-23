@@ -17,3 +17,6 @@ It replicates sections such as the top banner, call-to-action area, frequently a
 ❌ No actual functionality (no JavaScript or form submission)
 
 ❌ No login or streaming features
+
+## 🛠️ Technologies Used
+
