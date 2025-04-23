@@ -10,7 +10,7 @@ It replicates sections such as the top banner, call-to-action area, frequently a
 
 ✅ Includes a Hero section with background image and sign-in form
 
-✅ FAQ section styled with collapsible-looking UI
+
 
 ✅ Footer with multiple columns and useful links (mocked)
 
