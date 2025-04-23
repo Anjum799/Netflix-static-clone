@@ -19,4 +19,4 @@ It replicates sections such as the top banner, call-to-action area, frequently a
 ❌ No login or streaming features
 
 ## 🛠️ Technologies Used
-
+- HTML5 – Structure and markup
