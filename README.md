@@ -6,7 +6,7 @@ It replicates sections such as the top banner, call-to-action area, frequently a
 ## 🚀 Features
 ✅ Clean Netflix-like layout and design
 
-✅ Netflix branding with custom fonts and styling
+
 
 ✅ Includes a Hero section with background image and sign-in form
 
