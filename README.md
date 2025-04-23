@@ -4,7 +4,7 @@ This project is a static replica of the Netflix homepage (circa 2023), created u
 
 It replicates sections such as the top banner, call-to-action area, frequently asked questions (FAQ), footer, and more, to closely match the look and feel of the Netflix interface.
 ## 🚀 Features
-🎯 Static UI Replica: Faithfully replicates the 2023 Netflix landing page using only HTML and CSS.
+✅ Clean Netflix-like layout and design
 
 ✅ Netflix branding with custom fonts and styling
 
