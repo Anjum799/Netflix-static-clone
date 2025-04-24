@@ -21,3 +21,4 @@ It replicates sections such as the top banner, call-to-action area, frequently a
 ## 🛠️ Technologies Used
 - HTML5 – Structure and markup
 - CSS3 – Styling, Flexbox/Grid, Media Queries
+- Google Fonts (optional) – For matching Netflix's font style
