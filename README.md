@@ -24,4 +24,4 @@ It replicates sections such as the top banner, call-to-action area, frequently a
 - Google Fonts (optional) – For matching Netflix's font style
 
 ## 📦 Requirements
-There are no installations or frameworks needed. Just a browser!
+- There are no installations or frameworks needed. Just a browser!
