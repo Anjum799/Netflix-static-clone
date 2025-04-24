@@ -22,3 +22,6 @@ It replicates sections such as the top banner, call-to-action area, frequently a
 - HTML5 – Structure and markup
 - CSS3 – Styling, Flexbox/Grid, Media Queries
 - Google Fonts (optional) – For matching Netflix's font style
+
+## 📦 Requirements
+There are no installations or frameworks needed. Just a browser!
