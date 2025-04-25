@@ -25,3 +25,4 @@ It replicates sections such as the top banner, call-to-action area, frequently a
 
 ## 📦 Requirements
 - There are no installations or frameworks needed. Just a browser!
+- Basic text editor (VS Code recommended)
