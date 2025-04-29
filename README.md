@@ -31,3 +31,7 @@ It replicates sections such as the top banner, call-to-action area, frequently a
 - Here’s a sample of what the UI looks like (screenshot):
 ![Image](https://github.com/user-attachments/assets/5b4f8c1b-cd29-428e-ae07-0443cf7b0395)
 
+![Image](https://github.com/user-attachments/assets/4fdad019-5a2e-4ed0-9418-370dc9397a70)
+
+
+
