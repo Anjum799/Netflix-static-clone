@@ -36,3 +36,5 @@ It replicates sections such as the top banner, call-to-action area, frequently a
 ![Image](https://github.com/user-attachments/assets/d3fdf906-5636-4ca7-a459-fb0759d6d984)
 
 ![Image](https://github.com/user-attachments/assets/ce68fbd8-a20b-4323-bcd8-7bc54a7fcbd1)
+
+![Image](https://github.com/user-attachments/assets/cc01fc2e-c85e-481f-bf63-e279d2062bb2)
